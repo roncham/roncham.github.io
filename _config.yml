@@ -1,0 +1,41 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 4 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+comments: true
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Ron's Musings
+
+tagline: 'Life, Outdoors & Marketing'
+
+description: 'Life, Outdoors & Marketing'
+disqus: pteam
+author:
+  name: Ron Chamberlain
+
+  github: 
+  google_plus: +pegasusteam
+  twitter: pegasusteam
+  facebook: chamberlain.ron
+  pinterest: 
+  # linkedin: 298843686
+  bio: 'Life, Outdoors & Marketing'
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
