@@ -1,2 +1,3 @@
-# roncham.github.io
-Ron's Musings
+## Ron's Musings
+
+ My github.io Jekyll blog
