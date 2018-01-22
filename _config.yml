@@ -9,7 +9,6 @@ comments: true
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 
 defaults:
