@@ -1,32 +1,28 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+Hi I’m Ron Chamberlain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+I develop websites that are well designed, useable, adhere to modern standards and are both usable and accesible. I am a co-founder of PegasusTeam.com
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+I started designing websites in 1996 using html from scratch.
+I have been working with WordPress for over a decade. Building and tweaking sites for myself, individuals, businesses and organizations.
+This site is my first venture into using Github and Jekyll to build a website/blog. I have dappled in using Bootstrap and Foundation as starting points.
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+My wife and I have both been involved in Internet Marketing in one form or another since we first got computers in the mid 90′s. Although we followed the usual path of making money online by joining hundreds of programs and being disappointed, we have pretty much learned our lessons and now focus on other things.
+
+I first met my wife online around 1999. We had a long distance relationship and formed [PegasusTeam](http://www.pegasusteam.com) and worked together online for 4 years before we finally made the plunge and got married. We both relocated to Las Vegas and just recently to her home on the Big Island of Hawaii where we were enjoying our life and business ventures together! We recentely moved back to Vegas.
+
+I love the outdoors and if there was wifi on top of the mountain, that's where you would find me.
+
+I am also a published author. You can buy my book on how to setup high converting marketing funnels on [Amazon](http://amzn.to/1DnLuI8).
+
+![placeholder](http://www.pegasusteam.com/wp-content/uploads/2015/03/susf_kindle_cover_sm.png "Set Up A Sales Funnel")
+
+[Buy My Book](http://amzn.to/1DnLuI8)
+
+You can [Contact Me here](http://www.pegasusteam.com/contact-us/)
+
+Thank you for reading!

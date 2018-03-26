@@ -3,7 +3,7 @@ layout: post
 title: Do Nothing, And Be More Productive
 ---
 
-<amp-img width="600" height="300" layout="responsive" src=/assets/media/relax_pexels.jpg "Do Nothing")></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="/assets/media/relax_pexels.jpg" "Do Nothing")></amp-img>
 ---
 
 <div class="message">
