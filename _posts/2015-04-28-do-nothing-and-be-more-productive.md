@@ -4,7 +4,6 @@ title: Do Nothing, And Be More Productive
 ---
 
 <amp-img width="600" height="300" layout="responsive" src="/assets/media/relax_pexels.jpg" "Do Nothing")></amp-img>
----
 
 <div class="message">
 Have you ever spent hours trying to figure out a problem and after you walk away from it or you just give up trying to solve it, then the solution just comes to you?</div>
