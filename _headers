@@ -20,13 +20,13 @@
 /categories
   Link: </webpack-runtime-d07da8545e893bdca2a1.js>; rel=preload; as=script
   Link: </0-8b66963124a656f61d39.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-d07da8545e893bdca2a1.js>; rel=preload; as=script
-  Link: </0-8b66963124a656f61d39.js>; rel=preload; as=script
 /pages/about/
   Link: </webpack-runtime-d07da8545e893bdca2a1.js>; rel=preload; as=script
   Link: </0-8b66963124a656f61d39.js>; rel=preload; as=script
 /posts/do-nothing-and-be-more-productive/
+  Link: </webpack-runtime-d07da8545e893bdca2a1.js>; rel=preload; as=script
+  Link: </0-8b66963124a656f61d39.js>; rel=preload; as=script
+/pages/contacts/
   Link: </webpack-runtime-d07da8545e893bdca2a1.js>; rel=preload; as=script
   Link: </0-8b66963124a656f61d39.js>; rel=preload; as=script
 /posts/what-a-campfire-can-teach-you-about-marketing/
